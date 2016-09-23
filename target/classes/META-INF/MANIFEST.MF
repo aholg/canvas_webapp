@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: canvas_webapp
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Khn8368
+Implementation-Vendor-Id: org.springframework
+Build-Jdk: 1.8.0_101
+Implementation-URL: http://projects.spring.io/spring-boot/canvas_webap
+ p/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
